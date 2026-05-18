@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Balancer<br>🌱 Currently learning Automation & AI Web/App Integration<br>👯 Looking to collaborate on Open Source IoT or Full-stack React Projects<br>🤔 Ask me about Next.js, IoT Solutions, Embedded Systems, & AI Workflows<br>🌍 Portfolio: rhett-manubag-portfolio.netlify.app<br>📂 Projects: rhett-manubag-portfolio.netlify.app/#projects<br>📧 Email: rmanubag308@gmail.com
+🔭 Currently working on Balancer<br>🌱 Currently learning Automation & AI Web/App Integration<br>👯 Looking to collaborate on Open Source IoT or Full-stack React Projects<br>🤔 Ask me about Next.js, IoT Solutions, Embedded Systems, & AI Workflows<br>🌍 Portfolio: https://rhett-manubag-portfolio.netlify.app/<br>📂 Projects: https://rhett-manubag-portfolio.netlify.app/#projects<br>📧 Email: rmanubag308@gmail.com
 
 
 ## 🌐 Socials:
