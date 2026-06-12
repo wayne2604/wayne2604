@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a7d129,f8eeb4,000000&height=220&section=header&text=Rhett%20Wayne%20Manubag&fontSize=46&fontColor=000&animation=twinkling&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Embedded%20Systems&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a7d129,f8eeb4&height=220&section=header&text=Rhett%20Wayne%20Manubag&fontSize=46&fontColor=000&animation=twinkling&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Embedded%20Systems&descAlignY=60&descSize=18"/>
 </div>
 
 <p align="center">
@@ -241,5 +241,5 @@ Full-stack booking platform streamlining real-time vehicle reservations and rent
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a7d129,f8eeb4,000000&height=130&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a7d129,f8eeb4&height=130&section=footer"/>
 </div>
