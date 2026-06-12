@@ -198,7 +198,7 @@ Android application with a built-in conversational AI chatbot that suggests pers
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=000000&text_color=f8eeb4&border_color=a7d129"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=000000&quoteColor=f8eeb4&authorColor=a7d129&symbolColor=a7d129&v=1"/>
 </div>
 
 <br>
