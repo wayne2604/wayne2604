@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a7d129,f8eeb4,000000&height=220&section=header&text=Rhett%20Wayne&fontSize=52&fontColor=000&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Automation%20%26%20AI%20Integration&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a7d129,f8eeb4,000000&height=220&section=header&text=Rhett%20Wayne%20Manubag&fontSize=46&fontColor=000&animation=twinkling&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Embedded%20Systems&descAlignY=60&descSize=18"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=a7d129&center=true&vCenter=true&random=false&width=680&lines=Building+Smart+Automations;React+%7C+Next.js+%7C+AI+Integration;Embedded+Systems+%7C+IoT+Solutions;Open+for+Freelance+%26+Collaboration" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=a7d129&center=true&vCenter=true&random=false&width=680&lines=Computer+Engineer+%7C+Developer;Full-Stack+Web+%26+Mobile+Apps;Embedded+Systems+%26+AI+Integration;Building+Secure%2C+Intelligent+Solutions" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
   <a href="https://linkedin.com/in/rhett-wayne-manubag-207654319">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/wayne.2604">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://github.com/wayne2604">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://rhett-manubag-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-a7d129?style=for-the-badge&logo=vercel&logoColor=black"/>
@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-a7d129?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Computer%20Engineer-a7d129?style=flat-square&logoColor=black"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/IoT%20%26%20Automation-f8eeb4?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Embedded%20Specialist-f8eeb4?style=flat-square&logoColor=black"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/React%20%26%20Next.js-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-000000?style=flat-square&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To%20Work-a7d129?style=flat-square&logoColor=black"/>
 </p>
@@ -40,16 +40,16 @@
 
 ```typescript
 const rhett = {
-  role     : "Software Engineer | Automation & AI Integration Specialist",
-  location : "Philippines",
-  focus    : ["React", "Next.js", "Automation & AI Workflows", "Embedded Systems"],
+  role     : "Computer Engineer | Full-Stack Developer | Embedded Systems Specialist",
+  location : "Zamboanga del Norte, Philippines",
+  focus    : ["React & Next.js", "Mobile Development", "AI & RPA Workflows", "Embedded Systems"],
   strengths: [
-    "Architecting smart automations & AI integrations",
-    "Developing responsive web apps and IoT solutions",
-    "Integrating AI services and automated pipelines",
-    "Clean code, embedded development & automation",
+    "Bridging hardware (Arduino, PIC microcontrollers) with intelligence",
+    "Developing secure full-stack web and native mobile applications",
+    "Orchestrating advanced automated RPA & AI pipelines",
+    "Technical troubleshooting, network management & cybersecurity",
   ],
-  learning : "Advanced AI Workflows & System Architecture",
+  education: "B.S. in Computer Engineering @ Jose Rizal Memorial State University (2022 - 2026)",
   openTo   : "Freelance  •  Full-time  •  Collaboration",
 };
 ```
@@ -65,18 +65,18 @@ const rhett = {
 <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,kotlin,php,powershell&theme=dark&perline=4"/>
 </td>
 <td align="center" width="280">
-<b>02 · Web & App Frameworks</b><br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,laravel,dotnet,flutter,nodejs&theme=dark&perline=4"/>
+<b>02 · Web & Mobile Frameworks</b><br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,kotlin,androidstudio&theme=dark&perline=4"/>
 </td>
 <td align="center" width="180">
 <b>03 · Database & Backend</b><br><br>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,firebase&theme=dark&perline=2"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,firebase,nodejs,express,mongodb&theme=dark&perline=3"/>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<b>04 · Dev Tools & Cloud</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,gcp,raspberrypi&theme=dark&perline=5"/>
+<b>04 · Dev Tools & RPA Automation</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,gcp,raspberrypi,slack&theme=dark&perline=6"/>
 </td>
 <td align="center">
 <b>05 · Design & Creative</b><br><br>
@@ -92,41 +92,107 @@ const rhett = {
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🛡️ OriginShield</h3>
+<h3>🛡️ OriginShield — AI Content Platform</h3>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://originshield.vercel.app/)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+[![GitHub](https://img.shields.io/badge/GitHub-wayne2604%2Foriginshield-a7d129?style=flat-square&logo=github)](https://github.com/wayne2604/originshield)
+<br>
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
-A web security / shielding application for protecting web applications and assets.
+Full-stack AI content detection platform that analyzes text, images, and URLs using deep learning models (Sapling AI, Sightengine).
 
 </td>
 <td width="50%" valign="top">
-<h3>🤖 Nexus-AI</h3>
+<h3>🤖 Nexus-AI — RPA & Workflow Orchestrator</h3>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=make&logoColor=white)](https://us2.make.com/public/shared-scenario/avwaALsS6Nk/integration-circleback)
-![Make.com](https://img.shields.io/badge/Make.com-4A154B?style=flat-square&logo=slack&logoColor=white)
-![AI](https://img.shields.io/badge/AI_APIs-7873f5?style=flat-square&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-wayne2604%2Fnexus--ai-a7d129?style=flat-square&logo=github)](https://github.com/wayne2604/nexus-ai)
+<br>
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-An advanced integration workflow utilizing AI engines and smart automation pipelines.
+Dual-layered automation engine using GPT-4, OpenAI Whisper, and Playwright to automate meeting transcription and recruitment pipelines.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 GenMIND — Interactive Learning Platform</h3>
+
+[![GitHub](https://img.shields.io/badge/GitHub-wayne2604%2Fgenmind-a7d129?style=flat-square&logo=github)](https://github.com/wayne2604/genmind)
+<br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+Native Android cognitive learning application featuring an adaptive UI built with Jetpack Compose and Firebase real-time sync.
+
+</td>
+<td width="50%" valign="top">
+<h3>📅 ZNNHS Faculty Scheduling System</h3>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://teacherschedule.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-wayne2604%2Fteacher--scheduler-a7d129?style=flat-square&logo=github)](https://github.com/wayne2604/teacher-scheduler)
+<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+Full-stack academic timetabling web app streamlining scheduling and conflict detection for a local high school.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔗 PeerLink Navigator System</h3>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://peerlink-mu.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-wayne2604%2Fpeerlink-a7d129?style=flat-square&logo=github)](https://github.com/wayne2604/peerlink)
+<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+Web-based counseling platform for anonymous student mental health support and session tracking.
+
+</td>
+<td width="50%" valign="top">
+<h3>🎬 Viewvie App — Movie Recommender</h3>
+
+[![GitHub](https://img.shields.io/badge/GitHub-wayne2604%2Fviewvie--ai-a7d129?style=flat-square&logo=github)](https://github.com/wayne2604/viewvie-ai)
+<br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Chatbot-7873f5?style=flat-square&logoColor=white)
+
+Android application with a built-in conversational AI chatbot that suggests personalized films based on current user mood.
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3>⚖️ Balancer</h3>
+<h3>🚗 Car Rental Hub Website</h3>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=netlify&logoColor=white)](https://rhett-manubag-portfolio.netlify.app/)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT-FF6B6B?style=flat-square&logo=white)
-![Automation](https://img.shields.io/badge/Automation-22C55E?style=flat-square&logo=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://car-rental-hub-two.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-wayne2604%2Fcar--rental-a7d129?style=flat-square&logo=github)](https://github.com/wayne2604/car-rental)
+<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-A software system for smart automation, embedded electronics, and load balancing.
+Full-stack booking platform streamlining real-time vehicle reservations and rental inventory management.
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/award-fill.svg" width="24" height="24"/> Certifications & Trainings
+
+* 📜 **Visual Graphic Design** — TESDA (2026)
+* 🛡️ **Cyber Threat Management** — Cisco Networking Academy (2025)
+* 🌐 **Introduction to Cybersecurity & IoT** — Cisco Networking Academy (2025)
+* 🤖 **AI Fundamentals** — IBM SkillsBuild (2025)
+* 🔌 **Cisco Packet Tracer Getting Started** — Cisco Networking Academy (2025)
+* 🎛️ **Establishing & Operating MSMEs** — TESDA (2025)
+* 💻 **C++ & Python Core Certifications** — Sololearn (2023)
 
 <br>
 
