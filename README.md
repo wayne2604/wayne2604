@@ -186,7 +186,7 @@ Android application with a built-in conversational AI chatbot that suggests pers
 ## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/graph-up-arrow.svg" width="24" height="24"/> GitHub Insights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wayne2604&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wayne2604&theme=2077"/>
 </div>
 
 <br>
