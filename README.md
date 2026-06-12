@@ -166,26 +166,13 @@ Android application with a built-in conversational AI chatbot that suggests pers
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-<h3>🚗 Car Rental Hub Website</h3>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://car-rental-hub-two.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-wayne2604%2Fcar--rental-a7d129?style=flat-square&logo=github)](https://github.com/wayne2604/car-rental)
-<br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-Full-stack booking platform streamlining real-time vehicle reservations and rental inventory management.
-
-</td>
-</tr>
 </table>
 
 <br>
 
 ## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/award-fill.svg" width="24" height="24"/> Certifications & Trainings
 
+* 💻 **vibe coding** — Sololearn (2026)
 * 📜 **Visual Graphic Design** — TESDA (2026)
 * 🛡️ **Cyber Threat Management** — Cisco Networking Academy (2025)
 * 🌐 **Introduction to Cybersecurity & IoT** — Cisco Networking Academy (2025)
@@ -193,14 +180,6 @@ Full-stack booking platform streamlining real-time vehicle reservations and rent
 * 🔌 **Cisco Packet Tracer Getting Started** — Cisco Networking Academy (2025)
 * 🎛️ **Establishing & Operating MSMEs** — TESDA (2025)
 * 💻 **C++ & Python Core Certifications** — Sololearn (2023)
-
-<br>
-
-## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/graph-up-arrow.svg" width="24" height="24"/> GitHub Insights
-
-<div align="center">
-  <img src="github-metrics.svg"/>
-</div>
 
 <br>
 
