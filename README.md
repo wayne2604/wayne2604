@@ -172,7 +172,8 @@ Android application with a built-in conversational AI chatbot that suggests pers
 
 ## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/award-fill.svg" width="24" height="24"/> Certifications & Trainings
 
-* 💻 **vibe coding** — Sololearn (2026)
+* ⚙️ **AI Engineer** — Udemy (2026)
+* 💻 **Vibe Coding** — Sololearn (2026)
 * 📜 **Visual Graphic Design** — TESDA (2026)
 * 🛡️ **Cyber Threat Management** — Cisco Networking Academy (2025)
 * 🌐 **Introduction to Cybersecurity & IoT** — Cisco Networking Academy (2025)
