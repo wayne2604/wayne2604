@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a7d129,100:f8eeb4&height=220&section=header&text=Rhett%20Wayne%20Manubag&fontSize=46&fontColor=000&animation=twinkling&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Front-End%20Developer%20%7C%20UI/UX%20Designer&descAlignY=60&descSize=18&v=2"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a7d129,100:f8eeb4&height=220&section=header&text=Rhett%20Wayne%20Manubag&fontSize=46&fontColor=000&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI/UX%20Designer&descAlignY=60&descSize=18&v=2"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=a7d129&center=true&vCenter=true&random=false&width=680&lines=Computer+Engineer+%7C+Developer;Full-Stack+Web+%26+Mobile+Apps;Embedded+Systems+%26+AI+Integration;Building+Secure%2C+Intelligent+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=a7d129&center=true&vCenter=true&random=false&width=680&lines=Full-Stack+Developer+%7C+UI%2FUX+Designer;Building+Full-Stack+Web+%26+Mobile+Apps;Designing+Intuitive%2C+User-Centered+Interfaces;Turning+Ideas+Into+Seamless+Digital+Experiences" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Engineer-a7d129?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-a7d129?style=flat-square&logoColor=black"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Embedded%20Specialist-f8eeb4?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Designer-f8eeb4?style=flat-square&logoColor=black"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Engineer-000000?style=flat-square&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To%20Work-a7d129?style=flat-square&logoColor=black"/>
 </p>
@@ -40,14 +40,14 @@
 
 ```typescript
 const rhett = {
-  role     : "Computer Engineer | Full-Stack Developer | Embedded Systems Specialist",
+  role     : "Full-Stack Developer | UI/UX Designer | Computer Engineer",
   location : "Zamboanga del Norte, Philippines",
-  focus    : ["React & Next.js", "Mobile Development", "AI & RPA Workflows", "Embedded Systems"],
+  focus    : ["React & Next.js", "UI/UX Design & Prototyping", "Mobile Development", "AI & RPA Workflows"],
   strengths: [
-    "Bridging hardware (Arduino, PIC microcontrollers) with intelligence",
+    "Designing intuitive, user-centered interfaces from wireframe to prototype",
     "Developing secure full-stack web and native mobile applications",
+    "Translating UX research and design systems into production-ready code",
     "Orchestrating advanced automated RPA & AI pipelines",
-    "Technical troubleshooting, network management & cybersecurity",
   ],
   education: "B.S. in Computer Engineering @ Jose Rizal Memorial State University (2022 - 2026)",
   openTo   : "Freelance  •  Full-time  •  Collaboration",
@@ -74,13 +74,13 @@ const rhett = {
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-<b>04 · Dev Tools & RPA Automation</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,gcp,raspberrypi,slack&theme=dark&perline=6"/>
+<td align="center" width="180">
+<b>04 · UI/UX & Design</b><br><br>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,canva&theme=dark&perline=4"/>
 </td>
-<td align="center">
-<b>05 · Design & Creative</b><br><br>
-<img src="https://skillicons.dev/icons?i=figma,ps,canva&theme=dark&perline=3"/>
+<td colspan="2" align="center">
+<b>05 · Dev Tools & RPA Automation</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,gcp,raspberrypi,slack&theme=dark&perline=6"/>
 </td>
 </tr>
 </table>
@@ -100,7 +100,7 @@ const rhett = {
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Full-stack AI content detection platform that analyzes text, images, and URLs using deep learning models (Sapling AI, Sightengine).
+Full-stack AI content detection platform, designed end-to-end with a clean UI, that analyzes text, images, and URLs using deep learning models (Sapling AI, Sightengine).
 
 </td>
 <td width="50%" valign="top">
